@@ -7,10 +7,6 @@ import java.nio.ByteBuffer;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-/**
- * Created by U0128754 on 12/22/2015.
- */
-
 @State(Scope.Thread)
 public class ByteBufferQueueBenchmark {
 
